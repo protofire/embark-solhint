@@ -1,11 +1,10 @@
 {
   "name": "embark-solhint",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "author": "Franco Victorio <victorio.franco@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "solhint": "^3.0.0-rc.4",
-    "text-table": "^0.2.0"
+    "solhint": "^3.0.0-rc.4"
   }
 }
